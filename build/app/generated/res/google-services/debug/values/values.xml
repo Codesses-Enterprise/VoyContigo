@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">204017376977-tu4cbrcpvej2kte84jnitf397rq517sh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://voy-contigo-47d64-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">204017376977</string>
+    <string name="google_api_key" translatable="false">AIzaSyDcluMnOoh89ENPkcavxC-9ylU1SkqNSIM</string>
+    <string name="google_app_id" translatable="false">1:204017376977:android:c45bb391a71593fe32eff0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDcluMnOoh89ENPkcavxC-9ylU1SkqNSIM</string>
+    <string name="google_storage_bucket" translatable="false">voy-contigo-47d64.appspot.com</string>
+    <string name="project_id" translatable="false">voy-contigo-47d64</string>
+</resources>

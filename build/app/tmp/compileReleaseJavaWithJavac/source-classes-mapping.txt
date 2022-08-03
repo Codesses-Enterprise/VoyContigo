@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/stormdeve/voy_contigo/BuildConfig.java
+ com.stormdeve.voy_contigo.BuildConfig

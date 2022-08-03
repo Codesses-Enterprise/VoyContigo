@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1141027349/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1141027349/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-221448707/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-221448707/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-806313902/android.firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/-806313902/android.firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/44293896/android.firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/44293896/android.firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1582706819/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/1582706819/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-882380473/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-882380473/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1792074002/android.image_picker_android.iml" filepath="$PROJECT_DIR$/.idea/modules/1792074002/android.image_picker_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1291220047/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1291220047/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-197258844/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-197258844/android.url_launcher_android.iml" />
+    </modules>
+  </component>
+</project>

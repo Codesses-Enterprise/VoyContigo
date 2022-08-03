@@ -1,0 +1,4 @@
+#Mon Jul 18 22:35:54 PDT 2022
+base.0=D\:\\Flutter\\Projects\\Voy Contigo\\voy_contigo\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
